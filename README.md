@@ -89,4 +89,4 @@
 <p>Yes. Common stacks include Ostarine for joint support or Ligandrol for extra mass.</p>
 
 <h3>Where can I buy genuine RAD150?</h3>
-<p>You can buy pure RAD150 directly from Chemyo here: <a href="https://www.chemyo.com/product/rad150-solution/?campaign=github&ref=166">https://www.chemyo.com/product/rad150-solution/?campaign=github&ref=166</a>.</p>
+<p>You can buy pure RAD150 directly from Chemyo here: <a href="https://www.chemyo.com/product/rad150-solution/?campaign=github&ref=166">Rad150 Solution</a>.</p>
